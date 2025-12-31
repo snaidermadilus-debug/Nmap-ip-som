@@ -71,3 +71,4 @@ Nmap done: 1 IP address (1 host up) scanned in 12.48 seconds
 ----------------------------- echo Scan salvo em: /storage/emulated/0/Download/scan_www.??.com.txt
 Pressione Enter para continuar...
 
+
