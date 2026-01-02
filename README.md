@@ -15,6 +15,7 @@ cd Nmap-ip-som && \
 chmod +x painel_nmap.sh && \
 ./painel_nmap.sh
 
+./painel_nmap.sh
 
 ## 📌 Requisitos
 
