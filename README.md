@@ -33,9 +33,6 @@ Execute os comandos abaixo no Termux:
 ```bash
 
 
-chmod +x painel_nmap.sh
-
-./painel_nmap.sh
 
 pkg update -y && pkg upgrade -y && \
 pkg install git python termux-api -y && \
