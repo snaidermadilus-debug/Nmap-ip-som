@@ -31,11 +31,6 @@ Antes de executar o script, você precisa ter:
 Execute os comandos abaixo no Termux:
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install bash -y
-pkg install nmap -y
-pkg install nano -y
-termux-setup-storage
 
 
 chmod +x painel_nmap.sh
