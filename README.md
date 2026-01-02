@@ -26,7 +26,7 @@ Antes de executar o script, você precisa ter:
 
 ---
 
-## 📦 Instalação dos pacotes necessários
+## 📦 Instalação todos pacotes necessários
 
 Execute os comandos abaixo no Termux:
 
